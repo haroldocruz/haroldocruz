@@ -7,12 +7,12 @@ Com algumas pós-graduações na área de Informática e também Legislação Ed
 - Facilitary App
 
 (sustentação)
-- App Fiscalização (React Native)
-- API Fiscalização (Java - Spring Boot)
+- App Fiscalização (TypeScript :: React Native)
+- API Fiscalização (Java :: Spring Boot)
 
 (supervisão de desenvolvimento e sustentação)
-- Login Único (Java - Spring Boot)
-- Estrutura Organizacional  (Java - Spring Boot)
+- Login Único (Java :: Spring Boot)
+- Estrutura Organizacional  (Java :: Spring Boot)
 - E outras mais de 40 de domínio do Governo.
 
 ## Projetos de parceiros entregues em 2025
